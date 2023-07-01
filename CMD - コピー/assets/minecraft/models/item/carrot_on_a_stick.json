@@ -1,0 +1,19 @@
+{
+  "parent": "minecraft:item/handheld_rod",
+  "textures": {
+    "layer0": "minecraft:item/carrot_on_a_stick"
+  },
+
+  "overrides": [
+    {"predicate": {"custom_model_data":1}, "model": "minecraft:item/elucidator"},
+    {"predicate": {"custom_model_data":2}, "model": "minecraft:item/dark_repulser"},
+    {"predicate": {"custom_model_data":3}, "model": "minecraft:item/executor"},
+    {"predicate": {"custom_model_data":4}, "model": "minecraft:item/preceder"},
+    {"predicate": {"custom_model_data":5}, "model": "minecraft:item/lambent_light"},
+    {"predicate": {"custom_model_data":6}, "model": "minecraft:item/giardino"},
+    {"predicate": {"custom_model_data":7}, "model": "minecraft:item/annealed_blade"},
+    {"predicate": {"custom_model_data":8}, "model": "minecraft:item/"},
+    {"predicate": {"custom_model_data":9}, "model": "minecraft:item/"},
+    {"predicate": {"custom_model_data":10}, "model": "minecraft:item/"}
+  ]
+}
